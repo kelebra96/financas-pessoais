@@ -56,12 +56,12 @@
 - [x] Preparar arquitetura para IA futura
 
 ## UI/UX
-- [ ] Implementar layout de dashboard com sidebar
-- [ ] Implementar navegação principal
-- [ ] Implementar formulários de transações
-- [ ] Implementar listagem de transações
+- [x] Implementar layout de dashboard com sidebar (usando DashboardLayout)
+- [x] Implementar navegação principal (rotas configuradas)
+- [x] Implementar formulários de transações (página Transactions)
+- [x] Implementar listagem de transações (página Transactions)
 - [ ] Implementar calendário de transações recorrentes
-- [ ] Implementar responsividade mobile
+- [x] Implementar responsividade mobile (grid responsivo em todas as páginas)
 
 ## Segurança e Boas Práticas
 - [ ] Implementar sanitização de entradas
