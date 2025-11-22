@@ -85,3 +85,7 @@
 - [ ] Documentar setup e instalação
 - [ ] Documentar variáveis de ambiente
 - [ ] Publicar código no GitHub
+
+
+## Bugs Reportados
+- [x] Corrigir rota "Page 2" no sidebar que não está funcionando (renomeado para "Transações" e apontando para /transactions)
